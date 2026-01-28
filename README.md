@@ -29,6 +29,7 @@
 - **📈 进程仪表盘**: 提供 HTTP API (`/api/dashboard`) 实时监控所有后台任务状态。
 - **📝 CTF 知识库**: 内置 Web, Reverse, Pwn, Crypto, Misc 等分类的解题技能树文档。
 
+
 ## 🏗 架构
 
 项目由两部分组成：
@@ -44,6 +45,9 @@
     - 实现 MCP 协议标准。
     - 将 AI 的工具调用请求转发给 CTF Server。
     - 将执行结果和日志回传给 AI。
+
+<img src="https://github.com/kk12-30/CTF-MCP/blob/main/ctfp1.png">
+<img src="https://github.com/kk12-30/CTF-MCP/blob/main/ctfp2.png">
 
 ## 💻 使用
 
